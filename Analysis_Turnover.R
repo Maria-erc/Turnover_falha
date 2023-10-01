@@ -60,7 +60,7 @@ Novator score
 """
 
 # Define o diretório
-setwd('C:/Users/maria.costa/Documents/Maria/Meus/Estudo/ML_cap05/R')
+setwd('C:/Users/R')
 getwd()
 
 # Instala os pacotes
